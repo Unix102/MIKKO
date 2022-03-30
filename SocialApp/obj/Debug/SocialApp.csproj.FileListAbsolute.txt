@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\SocialApp\SocialApp\obj\Debug\SocialApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SocialApp\SocialApp\obj\Debug\SocialApp.Form1.resources
+C:\Users\User\source\repos\SocialApp\SocialApp\obj\Debug\SocialApp.Properties.Resources.resources
+C:\Users\User\source\repos\SocialApp\SocialApp\obj\Debug\SocialApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SocialApp\SocialApp\bin\Debug\SocialApp.exe.config
+C:\Users\User\source\repos\SocialApp\SocialApp\bin\Debug\SocialApp.exe
+C:\Users\User\source\repos\SocialApp\SocialApp\bin\Debug\SocialApp.pdb
+C:\Users\User\source\repos\SocialApp\SocialApp\obj\Debug\SocialApp.exe
+C:\Users\User\source\repos\SocialApp\SocialApp\obj\Debug\SocialApp.pdb
+C:\Users\User\source\repos\SocialApp\SocialApp\obj\Debug\SocialApp.Form2.resources
+C:\Users\User\source\repos\SocialApp\SocialApp\obj\Debug\SocialApp.Form3.resources
+C:\Users\User\source\repos\SocialApp\SocialApp\obj\Debug\SocialApp.Form4.resources
+C:\Users\User\source\repos\SocialApp\SocialApp\obj\Debug\SocialApp.Form5.resources
+C:\Users\User\source\repos\SocialApp\SocialApp\obj\Debug\SocialApp.Form6.resources
+C:\Users\User\source\repos\SocialApp\SocialApp\obj\Debug\SocialApp.Form7.resources
+C:\Users\User\source\repos\SocialApp\SocialApp\obj\Debug\SocialApp.Form8.resources
